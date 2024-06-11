@@ -44,7 +44,7 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="baseDir">
-                                    <String>${cfd}</String>
+                                    <String>/Users/Egor_Kuzminau/Documents/DITA_Git/Oxygent-DITA</String>
                                 </field>
                                 <field name="outputDir">
                                     <String>${cfd}/out/webhelp-responsive</String>
